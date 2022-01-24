@@ -1,0 +1,2 @@
+# mineria
+free vps
